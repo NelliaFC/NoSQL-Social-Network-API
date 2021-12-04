@@ -60,7 +60,7 @@ const addDateStamp = date => {
     let dayOfMonth;
   
     if (dateSuffix) {
-      dayOfMonth = addDate(dateObj.getDate());
+      dayOfMonth = addDateStamp(dateObj.getDate());
     } else {
       dayOfMonth = dateObj.getDate();
     }
