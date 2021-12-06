@@ -64,8 +64,8 @@ You may use insomnia to test the routes.
 * Create new product
 ![Challenge Demo](./assets/product.gif)
 
-* New product createdAt
+* New product created
 ![Challenge Demo](./assets/product1.gif)
+
 ## Contact: 
 * If you have any questions or concerns please reach out to nellia.f.charlton@gmail.com 
-
