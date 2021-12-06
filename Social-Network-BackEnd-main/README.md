@@ -46,7 +46,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 `npm install`
 `npm run develop` or `npm start`
 
-*You may use insomnia to test the routes.
+* You may use insomnia to test the routes.
 ---------------------------
 ## Gifs 
 * Testing Categories
