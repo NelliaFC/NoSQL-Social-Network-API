@@ -57,10 +57,8 @@ You may use insomnia to test the routes.
 
 ---------------------------
 ## Gifs and pics for the app
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
-![Challenge Demo](./assets/Screenshot1.png)
+![Challenge Demo](./assets/CATEGORY.gif)
+![Challenge Demo](./assets/Delete.gif)
+![Challenge Demo](./assets/gif.gif)
+![Challenge Demo](./assets/product.gif)
+
