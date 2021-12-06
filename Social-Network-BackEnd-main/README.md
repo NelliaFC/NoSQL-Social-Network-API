@@ -2,9 +2,10 @@
 
 ## Table Of Contents
 * [Description](#description)
-* [Development](#usage)
+* [User Story](#user_story)
 * [Technologies Used](#technologies-used)
-* [Future Deployment](#future-deployement)
+* [Deployment](#deployment)
+* [Gifs](#gifs)
 * [Contact](#contact)
 ----------------------------
 ## Description
@@ -30,9 +31,6 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
----------------------------
-## Development
-Many upgrades to come. Currently our delete button is having technical defficulties, button will be removed until bug is found. Deployment will not come any later than July, 2021.
 
 ---------------------------
 ## Technologies used
@@ -50,7 +48,7 @@ Many upgrades to come. Currently our delete button is having technical defficult
 
 `You may use insomnia to test the routes.`
 ---------------------------
-## Gifs and pics for the app
+## Gifs 
 * Testing Categories
 ![Challenge Demo](./assets/CATEGORY.gif)
 
