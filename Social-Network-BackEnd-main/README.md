@@ -48,8 +48,7 @@ Many upgrades to come. Currently our delete button is having technical defficult
 `npm install`
 `npm run develop` or `npm start`
 
-You may use insomnia to test the routes.
-
+`You may use insomnia to test the routes.`
 ---------------------------
 ## Gifs and pics for the app
 * Testing Categories
@@ -64,8 +63,8 @@ You may use insomnia to test the routes.
 * Create new product
 ![Challenge Demo](./assets/product.gif)
 
-* New product created
-![Challenge Demo](./assets/product1.gif)
+* New Product:
+![Challenge Demo](./assets/product1.png)
 
 ## Contact: 
 * If you have any questions or concerns please reach out to nellia.f.charlton@gmail.com 
