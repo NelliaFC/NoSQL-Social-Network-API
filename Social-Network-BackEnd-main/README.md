@@ -46,14 +46,9 @@ Many upgrades to come. Currently our delete button is having technical defficult
 ## Deployment
 * To test the app on your local machine 
 `npm install`
-`npm run`
+`npm run develop` or `npm start`
 
 You may use insomnia to test the routes.
-
----------------------------
-## GIFS and pictures for app
-* COMING SOON: Enhanced functionality for Reactions
-* Front-end for easier and more user friendly testing
 
 ---------------------------
 ## Gifs and pics for the app
@@ -61,4 +56,7 @@ You may use insomnia to test the routes.
 ![Challenge Demo](./assets/Delete.gif)
 ![Challenge Demo](./assets/gif.gif)
 ![Challenge Demo](./assets/product.gif)
+
+## Contact: 
+* if you have any questions or concerns please reach out to Nellia.f.charlton@gmail.com 
 
