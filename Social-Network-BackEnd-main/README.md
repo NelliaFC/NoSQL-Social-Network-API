@@ -52,11 +52,20 @@ You may use insomnia to test the routes.
 
 ---------------------------
 ## Gifs and pics for the app
+* Testing Categories
 ![Challenge Demo](./assets/CATEGORY.gif)
+
+* Testing  Tag 
 ![Challenge Demo](./assets/Delete.gif)
+
+* Product get by ID
 ![Challenge Demo](./assets/gif.gif)
+
+* Create new product
 ![Challenge Demo](./assets/product.gif)
 
+* New product createdAt
+![Challenge Demo](./assets/product1.gif)
 ## Contact: 
-* if you have any questions or concerns please reach out to Nellia.f.charlton@gmail.com 
+* If you have any questions or concerns please reach out to nellia.f.charlton@gmail.com 
 
